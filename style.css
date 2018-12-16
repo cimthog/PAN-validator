@@ -1,0 +1,32 @@
+body {
+    background-color:bisque;
+   background-image: url('sky_background.png');
+   
+}
+.center_box {
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+    padding-top: 150px;
+    border-radius: 5%;
+    background: black;
+    background-image: url('card.png');
+    margin-top: 5%;
+    text-align: center;
+}
+h2,h4{
+   color: #fff;
+}
+input {
+    width: 50%;
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+    padding: 3px;
+    font-size: 14px;
+    font-weight: lighter; 
+    border-color:black;
+    background-color: bisque;
+}
